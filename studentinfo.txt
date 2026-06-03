@@ -1,4 +1,3 @@
-Name: Kawthar
+Name: Kawthar Ebrahim
 UOB ID: 202004107
-GitHub Username: Kwthriix 
- 
+GitHub Username: kwthriix
